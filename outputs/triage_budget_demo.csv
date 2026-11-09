@@ -1,0 +1,157 @@
+ticket_id,raw_response,tokens_used,status
+T0024,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0073,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0095,"{""category"": ""billing"", ""reason"": ""keyword match""}",54,processed
+T0080,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0124,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0061,"{""category"": ""billing"", ""reason"": ""keyword match""}",49,processed
+T0118,"{""category"": ""delivery"", ""reason"": ""keyword match""}",51,processed
+T0037,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0002,"{""category"": ""delivery"", ""reason"": ""keyword match""}",50,processed
+T0031,"{""category"": ""billing"", ""reason"": ""keyword match""}",54,processed
+T0047,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0063,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0121,The customer appears to have a billing-related problem.,57,processed
+T0139,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0115,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0123,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0116,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",56,processed
+T0136,"{""category"": ""fraud"", ""reason"": ""keyword match""}",50,processed
+T0008,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0102,"{""category"": ""delivery"", ""reason"": ""keyword match""}",54,processed
+T0072,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0101,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0059,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0049,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0153,"{""category"": ""billing"", ""reason"": ""keyword match""}",49,processed
+T0050,The customer appears to have a delivery-related problem.,54,processed
+T0147,"{""category"": ""billing"", ""reason"": ""keyword match""}",54,processed
+T0074,"{""category"": ""delivery"", ""reason"": ""keyword match""}",50,processed
+T0156,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0145,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0053,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0134,"{""category"": ""delivery"", ""reason"": ""keyword match""}",54,processed
+T0039,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0016,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",56,processed
+T0055,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0130,"{""category"": ""delivery"", ""reason"": ""keyword match""}",54,processed
+T0099,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0062,"{""category"": ""delivery"", ""reason"": ""keyword match""}",50,processed
+T0013,The customer appears to have a billing-related problem.,57,processed
+T0137,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0152,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0144,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0094,"{""category"": ""delivery"", ""reason"": ""keyword match""}",54,processed
+T0021,"{""category"": ""billing"", ""reason"": ""keyword match""}",49,processed
+T0077,"{""category"": ""billing"", ""reason"": ""keyword match""}",49,processed
+T0036,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0113,"{""category"": ""billing"", ""reason"": ""keyword match""}",49,processed
+T0060,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0043,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0048,"{""category"": ""fraud"", ""reason"": ""keyword match""}",50,processed
+T0154,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",54,processed
+T0125,The customer appears to have a billing-related problem.,53,processed
+T0146,"{""category"": ""delivery"", ""reason"": ""keyword match""}",51,processed
+T0107,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0011,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0017,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0111,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0041,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0120,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0122,"{""category"": ""delivery"", ""reason"": ""keyword match""}",50,processed
+T0001,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0064,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0092,"{""category"": ""fraud"", ""reason"": ""keyword match""}",50,processed
+T0038,"{""category"": ""delivery"", ""reason"": ""keyword match""}",50,processed
+T0155,The customer appears to have a technical-related problem.,63,processed
+T0104,"{""category"": ""fraud"", ""reason"": ""keyword match""}",50,processed
+T0012,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0084,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",56,processed
+T0051,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0143,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0035,"{""category"": ""billing"", ""reason"": ""keyword match""}",54,processed
+T0028,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0100,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0022,"{""category"": ""delivery"", ""reason"": ""keyword match""}",54,processed
+T0082,"{""category"": ""delivery"", ""reason"": ""keyword match""}",50,processed
+T0127,"{""category"": ""billing"", ""reason"": ""keyword match""}",54,processed
+T0109,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0046,The customer appears to have a delivery-related problem.,58,processed
+T0081,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0007,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0068,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0085,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0075,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0052,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0066,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",54,processed
+T0151,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0131,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0006,"{""category"": ""delivery"", ""reason"": ""keyword match""}",51,processed
+T0135,"{""category"": ""billing"", ""reason"": ""keyword match""}",54,processed
+T0079,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0040,The customer appears to have a fraud-related problem.,60,processed
+T0093,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0089,"{""category"": ""billing"", ""reason"": ""keyword match""}",49,processed
+T0034,"{""category"": ""delivery"", ""reason"": ""keyword match""}",54,processed
+T0033,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0087,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0009,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0108,"{""category"": ""billing"", ""reason"": ""keyword match""}",56,processed
+T0054,"{""category"": ""delivery"", ""reason"": ""keyword match""}",51,processed
+T0025,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0004,"{""category"": ""fraud"", ""reason"": ""keyword match""}",56,processed
+T0148,"{""category"": ""shipping"", ""reason"": ""parcel movement""}",56,processed
+T0088,"{""category"": ""fraud"", ""reason"": ""keyword match""}",50,processed
+T0030,The customer appears to have a delivery-related problem.,55,processed
+T0067,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0029,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0129,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0105,"{""category"": ""billing"", ""reason"": ""keyword match""}",49,processed
+T0045,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0069,"{""category"": ""billing"", ""reason"": ""keyword match""}",53,processed
+T0010,"{""category"": ""delivery"", ""reason"": ""keyword match""}",51,processed
+T0023,"{""category"": ""technical"", ""reason"": ""keyword match""}",43,processed
+T0106,"{""category"": ""delivery"", ""reason"": ""keyword match""}",51,processed
+T0015,"{""category"": ""billing"", ""reason"": ""keyword match""}",54,processed
+T0091,"{""category"": ""technical"", ""reason"": ""keyword match""}",59,processed
+T0126,,0,budget_exhausted
+T0096,,0,budget_exhausted
+T0149,,0,budget_exhausted
+T0070,,0,budget_exhausted
+T0026,,0,budget_exhausted
+T0097,,0,budget_exhausted
+T0132,,0,budget_exhausted
+T0027,,0,budget_exhausted
+T0119,,0,budget_exhausted
+T0058,,0,budget_exhausted
+T0110,,0,budget_exhausted
+T0018,,0,budget_exhausted
+T0032,,0,budget_exhausted
+T0003,,0,budget_exhausted
+T0042,,0,budget_exhausted
+T0056,,0,budget_exhausted
+T0114,,0,budget_exhausted
+T0083,,0,budget_exhausted
+T0138,,0,budget_exhausted
+T0057,,0,budget_exhausted
+T0076,,0,budget_exhausted
+T0019,,0,budget_exhausted
+T0103,,0,budget_exhausted
+T0090,,0,budget_exhausted
+T0112,,0,budget_exhausted
+T0133,,0,budget_exhausted
+T0014,,0,budget_exhausted
+T0020,,0,budget_exhausted
+T0142,,0,budget_exhausted
+T0086,,0,budget_exhausted
+T0141,,0,budget_exhausted
+T0044,,0,budget_exhausted
+T0117,,0,budget_exhausted
+T0078,,0,budget_exhausted
+T0140,,0,budget_exhausted
+T0071,,0,budget_exhausted
+T0150,,0,budget_exhausted
+T0065,,0,budget_exhausted
+T0128,,0,budget_exhausted
+T0005,,0,budget_exhausted
+T0098,,0,budget_exhausted

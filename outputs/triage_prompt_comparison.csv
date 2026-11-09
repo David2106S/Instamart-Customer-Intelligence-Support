@@ -1,0 +1,3 @@
+prompt_type,total_tickets,classified_tickets,invalid_tickets,accuracy,total_tokens,tokens_per_classified_ticket
+Zero-shot,156,147,9,0.8571428571428571,8191,55.72108843537415
+Few-shot,156,147,9,1.0,14431,98.17006802721089

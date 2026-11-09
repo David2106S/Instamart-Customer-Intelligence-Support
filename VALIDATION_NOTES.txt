@@ -1,0 +1,5 @@
+IMPORTANT:
+1. This archive includes the two starter Python scripts transcribed from the supplied Word assignment brief. Keep them unchanged after extraction.
+2. Run `python generate_data.py` before `python run_all.py`.
+3. Review all generated reports and compare them with the assignment's numeric checkpoints. This is a comprehensive working implementation, but you must understand, test, and personally validate it before submitting it as your own academic work.
+4. The README is a reproducibility starting point. Add the actual measured values from your run where the assignment asks you to report numbers and findings.
