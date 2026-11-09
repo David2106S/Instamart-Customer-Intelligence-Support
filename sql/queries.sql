@@ -1,7 +1,5 @@
 -- Q1 WHERE then HAVING
-SELECT customer_id, SUM(order_amount) AS spend FROM orders WHERE status = 'completed'
-GROUP BY customer_id
-HAVING SUM(order_amount) > 8000;
+SELECT customer_id, SUM(order_amount) AS spend FROM orders WHERE status='completed' AND order_amount>500 GROUP BY customer_id HAVING SUM(order_amount)>8000;
 -- Q2 city/category revenue
 SELECT c.city,p.category,SUM(o.order_amount) revenue FROM orders o JOIN customers c USING(customer_id) JOIN products p USING(product_id) WHERE o.status='completed' GROUP BY c.city,p.category ORDER BY c.city,p.category;
 -- Q3 products above average catalogue price

@@ -68,17 +68,17 @@
   "logistic_coefficient_signs": [
     {
       "feature": "num__frequency",
-      "coefficient": -1.697330725855102,
+      "coefficient": -1.6973307258551036,
       "sign": "negative"
     },
     {
       "feature": "cat__fav_category_Electronics",
-      "coefficient": -1.1350564326022754,
+      "coefficient": -1.135056432602282,
       "sign": "negative"
     },
     {
       "feature": "cat__fav_category_Grocery",
-      "coefficient": -0.44922553406560084,
+      "coefficient": -0.4492255340656045,
       "sign": "negative"
     }
   ],
@@ -133,8 +133,8 @@
     }
   ],
   "pca": [
-    0.6342787496047422,
-    0.21803761714547434
+    0.6342787496047425,
+    0.2180376171454743
   ],
   "retention_true_lapsed": 3
 }
